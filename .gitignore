@@ -48,3 +48,4 @@ Temporary Items
 
 # Jupyter Notebook temp files
 .ipynb_checkpoints
+*.pyc
